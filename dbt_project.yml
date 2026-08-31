@@ -1,0 +1,22 @@
+name: 'warehouse_transformations'
+version: '1.0.0'
+config-version: 2
+
+# Core configuration paths
+profile: 'warehouse_transformations'
+model-paths: ["dbt_models"]
+analysis-paths: ["dbt_analyses"]
+test-paths: ["dbt_tests"]
+seed-paths: ["dbt_seeds"]
+macro-paths: ["dbt_macros"]
+snapshot-paths: ["dbt_snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# This block matches your folder structure exactly
+models:
+  warehouse_transformations:
+    +materialized: table
