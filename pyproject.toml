@@ -12,6 +12,8 @@ dependencies = [
     "dbt-duckdb>=1.11.0",
     "duckdb>=1.5.5",
     "groq>=1.7.0",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
     "python-dotenv>=1.2.3",
 ]
 
