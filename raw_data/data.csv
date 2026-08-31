@@ -1,0 +1,1001 @@
+product_id,product_name,category,stock_level,reorder_point,daily_sales_volume,unit_price
+1,Dish Rack,Kitchen,11850,24032,8884,5734.16
+2,Nutty Granola Clusters,Food - Cereal,48646,18213,1761,3240.33
+3,Vacuum Sealer Machine,Kitchen,74850,45047,5741,4578.01
+4,Cacao Nibs,Food - Baking,19504,39416,3426,465.3
+5,Compact Pop-Up Tent,Outdoor,61838,36893,4498,3976.17
+6,Chicken Breasts,Food - Meat,63776,39145,6567,3366.43
+7,Fruit and Nut Energy Bites,Food - Snacks,2650,38307,2393,2732.33
+8,Essential Oil Roller Bottles,Health,94841,1076,764,2893.16
+9,Coffee Capsule Dispenser,Kitchen,73506,9682,7710,4209.4
+10,Handheld Vacuum,Home Appliances,2230,35858,5635,5728.23
+11,Cranberry Almond Cookies,Food - Bakery,10112,44515,1344,1164.89
+12,Air Fryer Oven,Kitchen,99611,14433,7159,8657.97
+13,Herbed Chicken Breast,Food - Meat,79964,34614,9961,4456.19
+14,High-Speed HDMI Cable,Electronics,47977,25088,7003,2979.95
+15,Compact Portable Grill,Outdoor,24565,33675,4543,3987.62
+16,Canned Coconut Milk,Food - Canned Goods,96050,41177,468,7239.84
+17,Savory Breakfast Sausage,Food - Meats,14308,35066,1323,367.6
+18,Chic Ankle Strap Heels,Clothing - Shoes,71784,21574,7867,8212.65
+19,Cinnamon Spiced Almonds,Food - Snacks,95900,16246,2438,144.19
+20,Mediterranean Couscous Salad,Food - Salads,15111,4142,3056,7723.12
+21,Garlic Parmesan Roasted Nuts,Food - Nuts,32903,6460,9158,1766.16
+22,Portable Pet Pooper Scooper,Pets,19520,30581,2206,3635.82
+23,Tandoori Chicken Skewers,Food - Meat,62382,33742,4118,1801.63
+24,Set of Decorative Storage Bins,Home,90755,18651,8331,3060.49
+25,Silicone Baking Mat Set,Kitchen,48380,43312,6440,3517.75
+26,Spicy Snack Mix,Food - Snacks,10332,39129,4113,2396.57
+27,Ready-to-Eat Chili,Food - Soups,58045,19855,1184,488.91
+28,Jennifer's Amazing Lip Balm Kit,Beauty,14066,27475,6414,1692.51
+29,Italian Breadsticks,Food - Bakery,78763,39848,2076,7378.0
+30,Portable Bluetooth Speaker,Audio,92915,26728,9087,9418.78
+31,Rainbow Veggie Chips,Food - Snacks,38077,32321,4991,3020.77
+32,Vegan Mayonnaise,Food - Condiments,94217,10898,6412,3824.91
+33,Plant Pot Drip Trays,Garden,95307,41669,647,517.15
+34,Natural Peanut Butter,Food - Spreads,37781,13427,5280,4276.71
+35,Almond Joy Snack Bars,Food - Snacks,19868,26945,7876,902.46
+36,Maple Oatmeal,Food - Breakfast,66194,19872,4582,1523.21
+37,Baked Mac and Cheese,Food - Frozen Foods,59106,12,6224,2729.09
+38,Vegetable Quinoa Bowl,Food - Frozen Meals,13347,3679,4865,6996.5
+39,Vegetarian Sausage Links,Food - Meat Substitutes,59093,49450,1312,5707.74
+40,Wall Calendar,Home,85574,30302,6416,8314.51
+41,Savory Trail Mix,Food - Snacks,97836,47164,654,8336.89
+42,Children's Backpack,Accessories,52854,30409,4809,2697.02
+43,Pear and Gorgonzola Salad,Food - Salads,92249,28467,1255,8527.72
+44,Infrared Thermometer,Health,72308,26692,6418,6546.97
+45,Garden Hose Reel,Garden,83101,46929,7222,5199.68
+46,Car Vacuum,Automotive,17783,40405,9680,1103.28
+47,Magnet Travel Fridge Magnets,Accessories,23473,36024,6594,9592.52
+48,Portable UV Sterilizer,Health,32065,46226,2393,4050.05
+49,LED Under Cabinet Lighting,Home,96040,32396,9502,8154.08
+50,Vegetable Samosas,Food - Frozen,50801,36420,7869,78.83
+51,Tahini,Food - Condiments,80559,14878,7661,1847.45
+52,Pepperoni Pizza Rolls,Food - Snacks,45758,15855,220,4213.09
+53,Raspberry Lemonade Mix,Food - Beverages,38079,42457,214,112.63
+54,Vegetable Lasagna,Food - Frozen Foods,53404,16639,8704,8960.2
+55,Heat-Resistant Silicone Mat,Kitchen,73676,6263,9107,8774.6
+56,Classic Minestrone Soup,Food - Soups,18901,12968,5533,5802.92
+57,Tuna Fish (canned),Food - Canned Goods,48507,46179,7842,4362.71
+58,LED Canopy Lights,Outdoor,91407,28894,9693,7783.92
+59,Ceramic Knife Set,Kitchen,73479,21924,7992,6820.3
+60,Kids' Outdoor Explorer Kit,Toys,88541,33067,4606,4995.3
+61,Smart Light Bulbs,Smart Home,37702,31647,8473,8871.09
+62,Chocolate Chip Cookie Dough,Food - Baking,47483,49411,4239,6213.08
+63,DIY Candle Kit,Crafts,49902,27972,6740,2630.72
+64,Spicy Italian Sausage,Food - Meat & Seafood,48705,45722,5871,2061.4
+65,Essential Oil Diffuser,Health,80303,36742,6723,9950.96
+66,Sweet and Sour Sauce,Food - Condiments,61406,16714,2567,9500.68
+67,Pet Waterer with Filtration,Pets,94881,29495,3353,2718.03
+68,Maple Bacon Popcorn,Food - Snacks,96797,19687,8437,110.83
+69,Peach Mango Smoothie,Food - Beverages,40102,35074,9679,5084.48
+70,Pasta Sauce Mix,Food - Sauces,83257,17896,17,89.1
+71,Smart Fitness Scale,Fitness,79527,5589,5654,1110.86
+72,Roasted Garlic Butter,Food - Condiments,77264,16714,3545,5328.5
+73,Peach Preserves,Food - Condiments,68819,16975,5212,8110.93
+74,Rustic Italian Breads,Food - Bakery,15071,14698,994,9199.05
+75,Mango Chia Pudding,Food - Snacks,57892,30786,8543,1893.37
+76,Cable Knit Beanie,Clothing - Accessories,27336,15799,68,475.37
+77,Tennis Racket,Fitness,84192,3553,8964,8077.36
+78,Handmade Leather Journal,Books,93842,476,8011,4046.01
+79,Cinnamon Sugar Donuts,Food - Bakery,9164,43934,2928,3358.86
+80,Portable Water Filter,Outdoor,70311,18615,372,5985.59
+81,Cauliflower Pizza Crust,Food - Frozen Foods,27085,44144,7670,1845.57
+82,Chicken Salad Kit,Food - Prepared Foods,37682,25793,5950,9709.56
+83,Honey Mustard Chicken Breasts,Food - Meat,76442,16022,7841,675.29
+84,Fishing Rod,Outdoor,81115,19133,8173,6549.19
+85,Spicy Kimchi,Food - Condiments,86880,36104,9947,3739.54
+86,Roasted Vegetable Medley,Food - Frozen Foods,2086,42471,9811,5482.86
+87,Pumpkin Spice Pancake Mix,Food - Breakfast,18344,35527,3046,4881.54
+88,Vanilla Protein Powder,Food - Health/Protein,75762,35717,4044,6341.61
+89,Pesto Genovese,Food - Condiments,45705,30146,6091,7657.48
+90,Travel Pillow,Travel,28605,45510,5686,1899.15
+91,Pizza Stone,Kitchen,89128,12337,3223,8594.46
+92,Bamboo Cutting Board Set,Kitchen,75367,26857,6908,4713.98
+93,Foldable Electric Scooter,Outdoor,27217,46380,5910,4265.68
+94,Roasted Garlic Aioli,Food - Condiments,98129,21796,2804,8351.72
+95,Electric Knife,Kitchen,33359,41571,8312,5237.76
+96,Wine Decanter,Home,61174,45628,2200,7731.06
+97,Maple Cinnamon Almonds,Food - Nuts,40774,21563,5356,3411.78
+98,Two-Tier Fruit Basket,Home,54579,20263,6310,5277.69
+99,Cheese Stuffed Jalapenos,Food - Snacks,47258,49903,4418,5591.72
+100,Children's Musical Instrument Set,Toys,26410,15397,3524,172.29
+101,Ankle Boots,Clothing - Footwear,18231,12839,9662,7319.12
+102,Elegant Lace Dress,Clothing - Dresses,53169,48468,5528,5721.29
+103,Non-Toxic Concrete Sealer,Home Improvement,3675,47900,2702,7185.8
+104,Frozen Berry Medley,Food - Frozen Foods,63351,10630,6657,1934.43
+105,Foam Muscle Roller,Fitness,1142,41590,3148,6276.06
+106,Mayonnaise,Food - Condiments,41451,6061,6936,3290.56
+107,Recipe Book Stand,Kitchen,16480,4859,255,5534.33
+108,Sour Cream,Food - Dairy,81601,22019,2521,1862.69
+109,Personal Security Alarm Keychain,Safety,85018,5777,5013,7046.11
+110,Buffalo Cauliflower Bites,Food - Freezer,11341,17200,7339,6564.65
+111,Granola Bars,Food - Snacks,12642,30850,2272,198.91
+112,Electric Heating Pad,Health,44337,5282,3666,1854.85
+113,Chocolate Chip Cookie Mix,Food - Baking,65261,44182,6858,3673.16
+114,Black Olives,Food - Canned Goods,26966,29820,6608,1374.95
+115,Vegan Alfredo Sauce,Food - Sauces,16266,45433,2634,3151.52
+116,Wild Rice Pilaf,Food - Grains,93208,39855,7174,8705.74
+117,Electric Rice Cooker with Steamer,Kitchen,82464,45280,5584,9451.88
+118,Laptop Sleeve,Accessories,39532,35191,2959,5495.6
+119,Pet Water Fountain,Pets,33749,48131,5425,5782.19
+120,Coconut Cream Pie Yogurt,Food - Dairy Alternatives,10715,19044,1975,4856.11
+121,Smartphone Photography Ring Light,Photography,90844,27157,6159,8683.59
+122,Warm Wool Sweater,Clothing - Tops,89670,43785,4879,8155.38
+123,Cable Knit Beanie,Clothing - Accessories,51767,25018,6944,8267.35
+124,Travel Hair Straightener,Beauty,30965,17147,5940,824.02
+125,Coconut Lime Rice,Food - Sides,58707,45866,5973,1104.11
+126,Car Escape Tool,Automotive,11448,40767,7097,564.3
+127,Camera Lens Cleaning Kit,Photography,30923,49105,656,3737.73
+128,Savory Breakfast Sausage,Food - Meats,26612,4711,6393,5959.12
+129,Black Bean & Corn Salad,Food - Salads,88232,42980,2550,7447.74
+130,Balsamic Vinegar,Food - Condiments,90066,45331,1469,3317.86
+131,Wild Rice & Quinoa Mix,Food - Grains,39400,6449,5608,4495.82
+132,Body Wash,Beauty,977,21175,7991,9887.61
+133,Pumpkin Spice Latte Mix,Food - Beverages,22715,6390,7287,1903.21
+134,Caraway Rye Bread,Food - Bakery,23997,8204,3269,8593.07
+135,Bock Beer Mustard,Food - Condiments,80595,6488,3032,1324.69
+136,Electric Wax Warmer,Home,60005,40203,6409,2318.47
+137,Fresh Basil,Food - Produce,43204,34750,3368,4852.84
+138,Blue Corn Tortilla Chips,Food - Snacks,25561,17732,7128,9561.17
+139,Mini Air Purifier,Health,88906,39988,4090,9120.58
+140,Decorative Throw Blanket,Home,81676,44355,2759,5841.26
+141,Adjustable Pedicure Footrest,Beauty,24164,33296,7368,8090.21
+142,Car Vacuum,Automotive,93917,37698,5737,7288.22
+143,Folding Table,Outdoor,79179,23807,8140,4675.84
+144,Luxury Bath Salts,Beauty,29782,48559,3663,8025.3
+145,Green Tea Matcha Powder,Food - Beverages,86805,8509,2268,9562.97
+146,Classic Bagels,Food - Bakery,51051,20026,9062,5319.15
+147,Eco-Friendly Yoga Mat,Fitness,86409,39357,1060,8035.55
+148,Travel Hair Straightener,Beauty,56006,47988,8318,8969.83
+149,Sesame Seeds,Food - Baking,19346,44803,8101,3247.86
+150,Educational STEM Kit,Toys,42929,34942,3448,4290.12
+151,Teriyaki Salmon Fillets,Food - Seafood,6604,31235,4757,2824.37
+152,Wireless Earbuds,Audio,87458,9146,9305,9675.89
+153,Solar Garden Lights,Outdoor,60900,42627,7320,7578.64
+154,Tactical Backpack,Outdoor,27429,32518,725,2820.81
+155,Personalized Pet ID Tags,Pets,15938,4212,9060,3868.58
+156,Garlic Herb Cream Cheese,Food - Dairy,32330,44261,3839,7236.58
+157,Kettle Corn Popcorn,Food - Snacks,5210,23613,3914,6046.79
+158,Spiced Pumpkin Soup,Food - Canned Soups,75412,35832,2838,2727.28
+159,Andouille Sausage,Food - Meat,3045,49210,1382,9288.54
+160,Granola Bars,Food - Snacks,56245,40898,2076,8083.02
+161,Chic Ankle Strap Heels,Clothing - Shoes,62219,45878,9049,7072.08
+162,Heated Throw Blanket,Home,50409,9990,2733,4107.39
+163,Herbal Tea Sampler Box,Food,74469,7141,2089,2373.95
+164,Dish Rack,Kitchen,50777,19826,9110,7024.69
+165,Caramel Apple Chips,Food - Snacks,17196,17181,776,7867.83
+166,Cinnamon Sugar Mix,Food - Baking,9379,9710,188,8702.29
+167,Roasted Garlic Pasta Sauce,Food - Sauces,6529,9241,4652,7369.12
+168,Herbal Tea Sampler Box,Food,78806,22127,6906,7128.99
+169,Vanilla Pudding Mix,Food - Baking,71615,47903,5458,1232.89
+170,Elegant Lace Dress,Clothing - Dresses,94472,24041,9415,9138.84
+171,Peanut Butter Cookies,Food - Bakery,61522,1081,936,5800.34
+172,Peanut Butter Filled Pretzels,Food - Snacks,64857,19820,5341,5744.36
+173,Wireless Game Controller,Gaming,80071,27534,8036,1028.81
+174,Salt and Pepper Grinder Set,Kitchen,86571,14381,9086,3066.67
+175,Tactical Backpack,Outdoor,1917,40824,5272,3085.63
+176,Pumpkin Pie Spice,Food - Baking,17933,37286,4860,7797.99
+177,Butternut Squash Ravioli,Food - Frozen Foods,5595,48658,3199,2691.63
+178,Cold Brew Coffee Maker,Kitchen,85009,48764,2297,2785.38
+179,Spinach Artichoke Dip,Food - Snacks,56910,39995,3911,3156.47
+180,Ceramic Non-Stick Frying Pan,Kitchen,3566,15865,1096,4547.62
+181,Vanilla Pudding Mix,Food - Baking,61309,47803,4315,8164.43
+182,Puzzle 3D Model Kit,Toys,72825,22781,1509,2765.89
+183,Screen Cleaning Kit,Electronics,11998,42309,8564,5582.53
+184,Bamboo Charcoal Air Purifier Bags,Home,89166,13297,687,1099.78
+185,Soft Plush Throw Blanket,Home,23481,13830,9485,6372.45
+186,Garlic Parmesan Roasted Nuts,Food - Nuts,65523,42224,9749,5074.87
+187,Sweetened Condensed Milk,Food - Baking Goods,3399,4451,9501,4693.66
+188,LED Strip Lights Kit,Home,39195,1400,9920,769.42
+189,Cranberry Almond Cookies,Food - Bakery,36202,17069,9474,6876.88
+190,Graphic Print Leggings,Clothing - Activewear,35969,935,4268,7073.12
+191,Classic Pesto Sauce,Food - Sauces,69027,4472,164,6008.97
+192,Pest Control Traps,Home,20374,14067,9044,8464.53
+193,Nordic Berry Smoothie,Food - Frozen Foods,20076,41607,2790,8417.19
+194,Smartphone Car Mount with Wireless Charging,Automotive,86552,27951,3590,3823.93
+195,Trail Mix (Deluxe),Food - Snacks,42663,18100,9953,4296.65
+196,Biodegradable Dog Waste Bags,Pets,62615,30876,4952,3788.01
+197,Garlic Butter Sauce,Food - Condiments,8175,672,104,6263.55
+198,Garden Tool Set with Carrying Bag,Garden,76170,42160,9731,2976.49
+199,Berries Medley,Food - Produce,37130,33029,8855,6366.13
+200,Dish Rack,Kitchen,17040,27559,8358,962.17
+201,Non-Stick Grill Mat,Outdoor,38638,25239,3163,9544.04
+202,Peanut Butter Pretzel Bites,Food - Snacks,3629,6496,8297,7223.47
+203,Pepperoni Pizza Roll-Ups,Food - Frozen Foods,16019,26588,3565,4597.54
+204,Travel Laundry Bag,Travel,77181,3988,7628,7067.61
+205,Cable Knit Cardigan,Clothing - Outerwear,71008,15958,2730,3484.73
+206,Smartphone Car Mount with Wireless Charging,Automotive,63266,47723,6339,6552.91
+207,Ramen Noodle Soup Cups,Food - Prepared Meals,55150,13055,5627,851.78
+208,Dog Collar,Pets,48824,36971,1732,7774.89
+209,Fresh Strawberries,Food - Produce,26746,12844,7915,1421.76
+210,Dark Chocolate Raisins,Food - Snacks,42087,46931,4501,9731.94
+211,Dark Chocolate Covered Pretzels,Food - Snacks,74212,8357,4317,5380.07
+212,Scented Candles,Home,9490,35535,7237,4627.44
+213,Coconut Chia Pudding,Food - Dairy,90352,34732,3890,6871.8
+214,Ginger Turmeric Latte Mix,Food - Beverages,60036,40288,8900,2249.83
+215,Ergonomic Mouse Pad with Wrist Support,Office,26401,24512,7604,6630.27
+216,Terry Cloth Robe,Clothing - Loungewear,82772,16811,46,1292.43
+217,Adjustable Kitchen Broom Stand,Home,90685,45875,5538,2810.37
+218,Self-Watering Planters,Garden,60575,28513,1352,7264.02
+219,Classic Pumps,Clothing - Footwear,1087,29600,6068,4885.77
+220,Sweet Chili Dipping Sauce,Food - Condiments,58190,38758,4322,2216.75
+221,Brown Rice,Food - Grains,72659,42119,5696,9045.85
+222,Karaoke Microphone,Music,15208,49240,8735,3425.08
+223,Mango Chutney,Food - Condiments,43498,33492,2720,846.88
+224,Wall-Mounted Bookshelf,Home,97726,8343,5537,9985.77
+225,Wireless Gaming Mouse,Gaming,58554,43129,1589,6012.57
+226,Fruit and Nut Medley,Food - Snacks,57708,39146,6064,3827.19
+227,Pet Grooming Brush,Pets,60362,18926,8343,7618.64
+228,Travel Jewelry Organizer,Accessories,14085,46467,948,7706.06
+229,Sesame Oil,Food - Oils & Vinegars,585,9109,6071,1532.56
+230,Pet Grooming Gloves,Pets,92772,32441,3662,8023.31
+231,White Rice,Food - Grains,95156,23710,5990,4447.82
+232,Wild Rice & Quinoa Mix,Food - Grains,35746,30984,161,588.06
+233,Outdoor Mosquito Repellent Lantern,Outdoor,15696,284,8145,1334.05
+234,Creamy Garlic Dressing,Food - Condiments,19076,47207,2410,7380.2
+235,Rustic Italian Breads,Food - Bakery,11417,19536,6570,8979.85
+236,Fitbit Activity Tracker,Fitness,56536,8970,1533,3095.42
+237,Hummus Variety Pack,Food - Dairy,14981,41013,2816,2538.67
+238,Window Blinds,Home,42352,40111,182,8716.72
+239,Mini Air Purifier,Health,76665,3426,6061,6794.24
+240,Rice Cakes,Food - Snacks,20810,49234,4230,6793.66
+241,Almond Flour Brownies,Food - Baking,39460,24353,180,4779.82
+242,Outdoor Sports Backpack,Outdoor,94653,43074,3727,6740.65
+243,Foam Muscle Roller,Fitness,18727,48730,7337,5136.99
+244,Foldable Yoga Mat,Fitness,76572,5879,2378,8291.35
+245,Ripped Boyfriend Jeans,Clothing - Bottoms,37349,49176,6593,7602.21
+246,Banana Peanut Butter Smoothie,Food - Frozen Foods,22900,2005,5539,4161.48
+247,Karaoke Microphone,Music,13780,18642,9044,4525.88
+248,Reusable Silicone Food Storage Bags,Kitchen,84057,3946,4929,8488.66
+249,Memory Foam Mattress Topper,Home,95342,10553,4459,3803.02
+250,Maple Bacon Potato Chips,Food - Snacks,17025,19915,3315,2149.47
+251,Spicy Garlic Edamame,Food - Snacks,5677,8184,7374,1463.03
+252,Ceramic Knife Set,Kitchen,88861,48576,2328,7634.63
+253,Wireless Gaming Headset,Gaming,68989,21966,9487,6147.23
+254,Multi-Functional Rice Cooker,Kitchen,8693,40452,4840,8340.65
+255,Granola Bars,Food - Snacks,82949,21838,8850,7336.97
+256,Faux Leather Leggings,Clothing - Pants,77033,21942,8566,2045.03
+257,Ceramic Knife Set,Kitchen,17365,26703,6597,6069.65
+258,Cinnamon Roll Kit,Food - Baking,50193,6072,1831,1058.79
+259,Magnetic Curtain Tiebacks,Home,76463,40566,4410,4345.54
+260,Honey Mustard Chicken Breasts,Food - Meat,59877,31075,3970,5601.01
+261,Portable Pet Pooper Scooper,Pets,9008,43112,7306,2875.85
+262,Baked Falafel,Food - Vegetarian,779,31438,5846,1123.3
+263,Garlic Parmesan Roasted Nuts,Food - Nuts,94605,42617,2709,3287.85
+264,Ramen Noodles,Food - Pasta,98982,7423,2687,4744.26
+265,Ready-to-Eat Chili,Food - Soups,88572,14584,6011,1481.13
+266,Kitchen Knife Sharpening System,Kitchen,72050,15190,498,9753.94
+267,Scent Diffuser,Home,94813,824,3015,9022.97
+268,Foldable Electric Scooter,Outdoor,41243,25359,9756,2113.87
+269,Honey Sesame Chicken Mix,Food - Frozen Meals,2058,26142,3832,9724.38
+270,Inflatable Pool Float,Outdoor,4557,13678,1882,9882.57
+271,Baking Powder,Food - Baking Goods,27304,32127,8441,8518.89
+272,Reusable Produce Bags Set,Kitchen,83820,27335,7954,5097.99
+273,Microwave Popcorn Maker,Kitchen,68248,29071,1280,3735.95
+274,Mini Electric Kettle,Kitchen,83626,42708,5771,2056.08
+275,Gaming Headset,Gaming,36398,24339,4537,7257.28
+276,Chili Garlic Sauce,Food - Condiments,31200,2806,7355,6991.53
+277,Coconut Granola,Food - Snacks,93479,26014,7415,3835.52
+278,Oatmeal Raisin Cookies,Food - Baked Goods,15633,34321,3667,1875.32
+279,Truffle Parmesan Fries,Food - Snacks,50775,12904,9626,8730.15
+280,Frozen Berry Medley,Food - Frozen Foods,26074,41733,734,9334.48
+281,Peanut Butter Protein Balls,Food - Snacks,96635,41301,1651,9836.96
+282,Plant-Based Meal Prep Containers,Kitchen,80424,11472,9545,335.09
+283,Chocolate Hazelnut Spread,Food - Spreads,95860,19936,448,2788.13
+284,Children's Backpack,Accessories,98437,10736,6644,2907.86
+285,Sun-Dried Tomato Pesto,Food - Condiments,4189,1830,2012,5216.72
+286,Adjustable Kneeling Pad,Garden,3784,36088,2697,8759.68
+287,Buffalo Sauce,Food - Condiments,71047,29223,4593,6349.29
+288,Window Bird Feeder with Suction Cups,Outdoor,65544,36207,7057,4832.24
+289,Adjustable Bar Stools,Furniture,27849,23774,6987,3556.85
+290,Lemon Garlic Shrimp,Food - Seafood,85766,9479,3431,3008.18
+291,Multi-Purpose Plant Care Tool,Garden,49178,46841,7303,4143.97
+292,LED Disco Ball Light,Home,85774,37885,3663,6753.57
+293,Wall-Mounted Organizer,Home,91240,8136,7869,8176.65
+294,Memory Foam Pillow,Home,295,2181,7759,8327.3
+295,Memory Card,Storage,66984,35597,7697,3902.74
+296,Peach Halves (canned),Food - Canned Goods,62444,25375,7123,4567.79
+297,Digital Thermostat,Home,35260,17898,4937,5813.55
+298,Classic Baseball Cap,Clothing - Accessories,25655,13947,1520,934.84
+299,Kids' Gardening Tools Set,Toys,71839,42686,4766,8130.58
+300,Luxury Rolling Makeup Case,Beauty,8754,37605,9498,3352.7
+301,Wild Rice Pilaf,Food - Grains,88423,11458,2755,3880.04
+302,Mini Electric Kettle,Kitchen,24713,244,4484,5637.13
+303,Children's Gardening Set,Toys,91049,18524,9982,4360.07
+304,Electric Can Opener,Kitchen,15686,10292,2117,1635.01
+305,Green Smoothie Mix,Food - Beverages,28646,17101,1878,8718.78
+306,Frozen Berry Blend,Food - Frozen Foods,50349,10759,416,819.65
+307,Two-Tone Windbreaker,Clothing - Outerwear,53695,35773,3691,819.83
+308,Self-Massaging Pillow,Health,3077,24940,7583,4047.18
+309,Hand Crank Blender,Kitchen,62350,4264,1377,20.09
+310,Wooden Children's Play Kitchen,Toys,15660,15978,9767,3850.51
+311,Zucchini Noodles,Food - Vegetables,47860,33938,985,7148.51
+312,Vegetarian Stir Fry Sauce,Food - Condiments,72053,38293,1990,7736.38
+313,Yoga Blocks,Fitness,77394,15769,7015,49.95
+314,Children's Educational Puzzle,Toys,18985,42360,2207,9355.94
+315,Portable Campfire,Outdoor,66848,49674,5870,9039.73
+316,Digital Drawing Tablet,Art Supplies,81131,11820,1634,7926.66
+317,Cheddar Cheese Slices,Food - Dairy,76013,12053,7966,6192.3
+318,Maple Bacon Popcorn,Food - Snacks,69046,14873,8768,7425.88
+319,Travel Pillow with Memory Foam,Travel,74352,26001,4928,6459.02
+320,Sriracha Honey Glaze,Food - Sauces,86318,22566,2352,667.01
+321,Soft Plush Throw Blanket,Home,3824,11733,1747,1803.33
+322,Tuscan Bean Soup,Food - Canned Goods,22005,43612,4292,6856.1
+323,Electric Razor,Health,24620,48643,6898,7290.91
+324,Teriyaki Salmon Fillets,Food - Seafood,14257,45348,2297,1825.62
+325,Essential Oils Diffuser Necklace,Health,54985,25841,9046,5828.34
+326,Herbed Goat Cheese,Food - Cheese,6336,29537,7859,2984.61
+327,Dark Chocolate Bars,Food - Snacks,16142,49282,128,2116.93
+328,Organic Honeycrisp Apples,Food - Fruits,28921,3481,8843,4582.36
+329,Portable Solar Charger,Electronics,22446,41406,1485,4420.47
+330,French Bread,Food - Bakery,34671,27180,8873,6980.2
+331,Chia Seed Pudding,Food - Snacks,6466,640,1484,4479.09
+332,Portable Bluetooth Keyboard,Electronics,21006,40836,8995,4984.63
+333,Tandoori Chicken Skewers,Food - Meat,82465,36227,2039,9922.88
+334,Smart Thermos,Fitness,84900,30469,3068,8601.66
+335,Roasted Chickpeas,Food - Snacks,69176,16004,19,3156.57
+336,Electric Kettle with Temperature Control,Kitchen,80364,3893,1003,9558.22
+337,Electric Griddle with Removable Plates,Kitchen,91069,10072,4858,6246.89
+338,Multi-Functional Rice Cooker,Kitchen,73046,16971,5668,7193.64
+339,Himalayan Salt Grinder,Food - Spices,53100,21706,4513,8949.83
+340,Raspberry Vanilla Greek Yogurt,Food - Dairy,1797,40331,7337,2794.16
+341,Breezy Off-The-Shoulder Top,Clothing - Tops,87116,8336,5696,5767.84
+342,Lemon Pepper Seasoning,Food - Seasonings,60444,45611,7096,4656.38
+343,Strawberry Fruit Spread,Food - Jams & Jellies,99539,1904,7150,5454.58
+344,Hummus Trio Pack,Food - Snacks,4916,33992,1561,8483.94
+345,Coffee Making Kit,Kitchen,7473,10358,4003,1027.24
+346,Coconut Milk Ice Cream,Food - Frozen Desserts,21373,14454,3290,7922.52
+347,Low-Fat Cottage Cheese,Food - Dairy,93670,45478,3898,4865.39
+348,Kale Salad Kit,Food - Salads,59808,39587,3683,942.23
+349,Shoe Organizer,Home,70200,25348,1477,5668.58
+350,Mechanical Pencil Set,Office,68632,30702,236,9677.31
+351,Wireless Game Controller,Gaming,68625,14321,4823,245.5
+352,Cinnamon Roll Protein Bar,Food - Snacks,90165,41204,9338,3475.63
+353,Dark Chocolate Covered Almonds,Food - Snacks,50858,3192,1197,8663.62
+354,Emergency Preparedness Kit,Safety,38472,23665,9472,2681.19
+355,Spinach Pizza Rolls,Food - Frozen Foods,43236,47155,7222,3068.95
+356,Chipotle Black Bean Salad,Food - Salads,68396,36365,7394,2143.88
+357,V-Neck Sweater,Clothing - Tops,48159,6340,5735,5403.59
+358,Chickpea Snack Mix,Food - Snacks,23110,16315,3426,1665.21
+359,Kids' Activity Book,Books,69343,11039,6385,4670.29
+360,Casual Long Cardigan,Clothing - Outerwear,71130,43812,2154,5746.8
+361,Smartphone Hand Grip,Accessories,35276,19542,2945,1375.45
+362,Pet Grooming Brush,Pets,61744,41170,7308,571.78
+363,Foam Roller for Muscle Recovery,Fitness,24202,22205,9378,5093.42
+364,Ceramic Non-Stick Frying Pan,Kitchen,6134,22755,808,4118.6
+365,Cinnamon Apple Sauce,Food - Canned Goods,76177,32555,7364,4068.51
+366,Vanilla Protein Powder,Food - Health/Protein,25480,16074,8220,9991.2
+367,Handmade Leather Journal,Books,72585,9061,8907,2226.03
+368,Lemon Lime Sparkling Water,Food - Beverages,30555,9879,4168,3119.19
+369,Veggie Lovers Pizza,Food - Frozen Foods,69380,23061,8835,9524.99
+370,Wireless Smart Plug,Smart Home,52112,19408,6105,2773.1
+371,Mini Indoor Herb Garden Kit,Garden,88298,46889,4426,7859.18
+372,Cinnamon Spiced Almonds,Food - Snacks,41454,14519,4171,3408.56
+373,Mini Fondue Set,Kitchen,52964,49969,2730,8305.54
+374,Outdoor String Lights,Outdoor,14533,1022,7540,2153.13
+375,Travel Laundry Bag,Travel,11021,14068,7788,9158.69
+376,Savory Breakfast Sausage,Food - Meats,76136,46214,8990,9489.47
+377,Pet Camera with Treat Dispenser,Pets,13524,15859,7700,7250.53
+378,Mango Chutney,Food - Condiments,58540,26839,5341,3390.76
+379,Travel Luggage Scale,Travel,27989,37425,5942,4494.39
+380,Yoga Mat Carrier,Fitness,32184,30961,8145,2711.71
+381,Elegant Maxi Skirt,Clothing - Bottoms,65592,49856,6086,7879.16
+382,Spicy Tuna Salad,Food - Seafood,21675,42945,5585,2225.04
+383,Chickpea Flour,Food - Baking,67164,2096,3015,7240.33
+384,Dried Cranberries,Food - Snacks,82372,21031,4830,744.96
+385,Fitness Smartwatch,Wearable Tech,65656,9047,9863,3830.27
+386,Buffalo Chicken Wraps,Food - Prepared Meals,37619,33569,8600,4021.52
+387,Whole Grain Hamburger Buns,Food - Bakery,19710,23010,625,5433.29
+388,High-Speed Hand Blender,Kitchen,10998,43209,634,2701.74
+389,Set of Decorative Storage Bins,Home,81241,11576,181,5302.1
+390,Streaming Device,Electronics,96254,547,730,2731.82
+391,Pineapple Rings,Food - Canned Goods,81627,43972,9072,5949.61
+392,Sports Bottle,Fitness,87427,29561,9734,3663.24
+393,Organic Granola,Food - Breakfast,89119,49361,1591,3784.27
+394,Roasted Garlic Pasta Sauce,Food - Sauces,64761,36627,2676,432.28
+395,Electric Screwdriver,Tools,35163,2720,3348,8750.53
+396,Zucchini Noodles,Food - Vegetables,93177,26963,7881,5438.53
+397,Balsamic Vinegar,Food - Condiments,2733,42372,6690,1076.91
+398,Window Blinds,Home,83560,40422,3200,4778.68
+399,Spiralizer,Kitchen,82339,41643,4661,7631.16
+400,Adjustable Bar Stools,Furniture,46432,48449,9610,1129.35
+401,Buffalo Stilton Cheese,Food - Cheese,12306,17574,9232,605.14
+402,Brussels Sprouts,Food - Produce,11018,46360,8391,6946.47
+403,Lemonade Mix,Food - Beverages,82208,15113,3874,5927.99
+404,Herbed Couscous,Food - Grains,27551,13083,6118,3146.11
+405,Greek Yogurt,Food - Dairy,5012,267,6571,1373.15
+406,Summer Tank Dress,Clothing - Dresses,42226,3214,8198,4112.37
+407,Paprika,Food - Spices,9550,48208,4022,2337.26
+408,Comfortable Jogger Pants,Clothing - Bottoms,4228,15547,5032,8446.58
+409,Tuna Fish (canned),Food - Canned Goods,19677,9606,9567,8834.33
+410,Sketchbook,Art Supplies,84814,25741,4009,2715.64
+411,Mango Sticky Rice Dessert,Food - Frozen Desserts,46554,35300,9886,2276.72
+412,Fruit and Nut Energy Bites,Food - Snacks,5066,49028,8681,8175.48
+413,Baby Monitor,Baby,96256,41786,5867,8276.66
+414,Free-Range Eggs,Food - Dairy,80118,40417,8855,1070.67
+415,Dark Chocolate Almond Butter Cups,Food - Snacks,15928,45465,4529,2584.31
+416,Chilli Lime Corn on the Cob,Food - Vegetable,39586,27799,6895,6108.29
+417,Leather Notebook Cover,Office,3484,28303,2922,4713.83
+418,Rustic Italian Bread,Food - Bakery,35822,47606,6552,9461.41
+419,Honey Roasted Peanuts,Food - Snacks,25709,38111,226,7487.01
+420,Graphic Print Leggings,Clothing - Activewear,92515,43688,4496,4204.67
+421,Glass Water Bottle,Fitness,84911,37411,1319,9765.35
+422,Car Diagnostic Scanner,Automotive,26042,27505,51,5183.26
+423,Chocolate Coconut Granola,Food - Cereals,63423,7399,1932,7585.66
+424,Sweet Potatoes,Food - Produce,47537,16212,3342,7419.31
+425,Pumpkin Spice Granola,Food - Breakfast,45890,45335,8221,1894.48
+426,Maxi Wrap Dress,Clothing - Dresses,27765,45115,68,4354.23
+427,Electric Nail File Kit,Beauty,41806,32054,9,7541.33
+428,Incense Holder,Home,43868,31092,9001,1488.03
+429,Stainless Steel Mixing Bowls,Kitchen,65046,25715,517,1160.42
+430,Organic Lentil Soup,Food - Soups,39283,10547,6695,1837.95
+431,Compressible Packing Cubes,Travel,5658,2637,5821,3534.43
+432,Savory Breakfast Sausage,Food - Meats,21740,19988,3718,1096.43
+433,Dark Chocolate Bars,Food - Snacks,8743,48125,1232,2960.45
+434,Digital Wireless Meat Thermometer,Kitchen,20696,29515,1922,5260.62
+435,Organic Almonds,Food - Nuts,85547,34546,172,1721.28
+436,LED Makeup Mirror,Beauty,93180,39578,5302,3636.29
+437,Sweet Potato Tots,Food - Frozen Foods,15760,6439,5079,622.44
+438,Utility Cargo Pants,Clothing - Pants,7383,14815,4537,8603.76
+439,Cocktail Shaker and Mixing Glass Set,Kitchen,20269,6273,6247,6941.87
+440,Maxi Wrap Dress,Clothing - Dresses,64801,10916,3376,9644.43
+441,Coconut Chia Seed Pudding,Food - Snacks,44551,7270,9225,5508.15
+442,Basketball,Sports,56548,16265,3457,6417.37
+443,Plant-Based Protein Bars,Health,89759,4071,3922,1668.98
+444,Chia Seeds,Food - Grains,12394,10133,6786,6996.91
+445,Cabbage,Food - Produce,23701,48166,6004,8063.18
+446,Coconut Granola,Food - Snacks,93787,15507,9664,5345.37
+447,Garden Hose,Garden,28697,13344,566,1543.86
+448,Tennis Racket,Fitness,25372,13106,9397,6872.01
+449,Pesto Pasta Sauce,Food - Sauces,78858,48296,3131,2428.11
+450,Woven Storage Baskets,Home,39815,42432,7187,5232.92
+451,Spicy Thai Chili Sauce,Food - Sauces,50661,6907,7926,4932.0
+452,Mango Chunks,Food - Frozen Fruits,70261,6999,954,8473.05
+453,Teriyaki Chicken Bowl,Food - Prepared Meals,8154,39777,9603,3235.46
+454,Pumpkin Puree,Food - Canned Goods,32351,27178,9160,3958.12
+455,Chino Shorts,Clothing - Bottoms,90280,46718,2806,6866.0
+456,Peanut Butter Pretzel Bites,Food - Snacks,64411,10686,5910,7960.6
+457,Cocktail Shaker Set,Kitchen,7789,13602,8278,6571.87
+458,Mayonnaise,Food - Condiments,97410,24591,5758,678.09
+459,Honeycrisp Apple Chips,Food - Snacks,30393,45840,5998,4104.91
+460,Heart-Shaped Baking Molds,Kitchen,88311,7408,2496,1572.84
+461,Portable Hammock Swing,Outdoor,7274,44556,8123,8146.33
+462,Cable Knit Cardigan,Clothing - Outerwear,21666,42831,675,4057.85
+463,Electric Toothbrush Holder,Health,97172,45538,4758,8788.52
+464,Sweet Cherry Tomatoes,Food - Produce,51417,5555,5956,63.34
+465,Kids' STEM Robotics Kit,Toys,10238,21539,9127,9942.8
+466,Mango Salsa,Food - Condiments,72231,23670,629,1617.14
+467,Coconut Milk Yogurt,Food - Dairy Alternatives,4328,26931,399,8878.71
+468,Smoked Paprika Chicken Thighs,Food - Meat,41727,35480,7550,5383.88
+469,Cinnamon Raisin Bagels,Food - Bakery,71247,19088,3733,8488.52
+470,Breezy Off-The-Shoulder Top,Clothing - Tops,20753,33905,2430,7356.68
+471,Overnight Duffle Bag,Travel,87777,18482,2852,2519.36
+472,Cranberry Almond Granola,Food - Breakfast,59126,27911,747,7189.74
+473,Non-Toxic Concrete Sealer,Home Improvement,73768,48460,5,4115.27
+474,Sliced Avocado,Food - Produce,81406,19325,6699,203.67
+475,LED Strip Lights Kit,Home,53500,48498,8241,132.32
+476,Smartphone UV Sanitizer,Health,15362,20554,1414,7918.76
+477,Rolling Cooler,Outdoor,29295,11299,6526,7359.25
+478,Honeycrisp Apples,Food - Produce,68758,28849,1538,5960.29
+479,Garlic Butter Sauce,Food - Condiments,58560,17717,3109,9908.01
+480,Bamboo Memory Foam Pillow,Home,20676,26241,1983,7368.25
+481,Wireless Gaming Headset,Gaming,89361,29757,7921,9250.68
+482,Silicone Baking Mat Set,Kitchen,61861,10516,1092,5398.39
+483,Lightweight Backpacking Tent,Outdoor,14864,44653,6400,6595.33
+484,Desk Lamp with USB Port,Office,78796,13420,183,2245.64
+485,Animal Paw Print Soap Dispenser,Home,70905,12735,7332,1278.03
+486,Set of Silicone Cooking Utensils,Kitchen,7883,36984,4998,5231.88
+487,Camera Lens Cleaning Kit,Photography,19284,40143,8097,5867.48
+488,Fitness Tracker Band,Fitness,94494,29593,7315,9281.37
+489,Home Office Chair,Furniture,96350,41812,9594,3181.39
+490,Poppy Seed Dressing,Food - Condiments,37778,45112,100,42.98
+491,Kids' Art Easel,Toys,64578,3170,9920,3839.61
+492,Hair Dryer,Beauty,40940,24431,8273,4158.05
+493,Thai Green Curry Paste,Food - Sauces,63763,28697,8306,9229.72
+494,Multi-Port USB Hub,Electronics,25681,47773,7130,7535.68
+495,Comfortable Jogger Pants,Clothing - Bottoms,51288,12058,9928,4497.83
+496,Reusable Food Storage Bags,Kitchen,3899,40056,6679,640.54
+497,Smart Home Hub,Smart Home,92822,13001,6004,7872.49
+498,Bluetooth Sleep Headphones,Audio,29403,4648,6199,5568.12
+499,Chicken Breasts,Food - Meat,67997,17926,8236,7477.46
+500,Pumpkin Spice Coffee,Food - Beverages,11118,12146,2147,495.0
+501,Baked Mac and Cheese,Food - Frozen Foods,12967,36056,1837,2146.67
+502,Portable Hammock Swing,Outdoor,6428,48880,9650,8347.31
+503,Maple Bacon Jerky,Food - Meat,98516,12774,7871,4723.71
+504,Teriyaki Sauce,Food - Condiments,24429,9511,1200,8317.97
+505,Customizable Wall Calendar,Office,49111,49490,1367,2126.29
+506,Warm Wool Sweater,Clothing - Tops,20249,42056,494,1493.07
+507,Pet Grooming Gloves,Pets,5199,32263,2502,2318.5
+508,Spicy Hummus,Food - Deli,1519,42490,8748,2736.27
+509,Portable Massage Table,Health,41214,18571,9025,3358.06
+510,Organic Coconut Water,Food - Beverages,58461,47103,4275,984.6
+511,Portable Solar Generator,Outdoor,39701,46646,3822,3889.0
+512,Folding Pocket Knife,Tools,77060,37238,7785,6660.81
+513,Lemon Lime Sparkling Water,Food - Beverages,30337,30899,7500,5204.22
+514,Mushrooms,Food - Produce,17373,42511,4658,7721.27
+515,Beef Taco Skillet,Food - Meal Kits,14334,7727,6377,7396.59
+516,Cauliflower Rice Stir-Fry,Food - Frozen Foods,16931,45396,3244,8747.22
+517,Mediterranean Couscous Salad,Food - Salads,82217,49463,907,5511.03
+518,LED Desk Lamp with USB Charging,Office,77510,25890,9414,1794.29
+519,Digital Food Scale,Kitchen,64881,27984,9400,2616.44
+520,Over-the-Door Shoe Organizer,Home,29179,40301,9033,7833.83
+521,Crispy Chickpeas,Food - Snacks,61460,38991,2323,6796.16
+522,Dog Training Clicker,Pets,75994,44466,2842,6452.49
+523,Trendy Bomber Jacket,Clothing - Outerwear,76863,11968,4807,4149.96
+524,Chipotle Lime Salsa,Food - Condiments,16308,28488,3938,5894.36
+525,Beef Chili,Food - Canned Goods,16645,16591,9841,8537.83
+526,Ginger Tea,Food - Beverages,8826,36356,1787,3531.79
+527,Honey Roasted Almonds,Food - Snacks,60322,19495,2087,1885.6
+528,First Aid Kit,Health,30387,36829,1957,2932.88
+529,Frozen Pizza,Food - Frozen Foods,52867,5038,723,5766.66
+530,Pork Tenderloin,Food - Meat,35228,48457,8640,7786.6
+531,Adjustable Yoga Mat Strap,Fitness,85182,22089,964,5771.88
+532,Yoga Blocks,Fitness,80956,6366,6035,6609.32
+533,Wooden Toy Train Set,Toys,93761,23728,7578,6250.44
+534,Wireless Gaming Headset,Gaming,54582,12454,1303,7635.7
+535,Sliced Ham,Food - Meat,53361,34362,5180,4114.78
+536,Outdoor Picnic Blanket,Outdoor,33484,19773,6227,3024.09
+537,Digital Drawing Tablet,Art Supplies,27291,32684,1646,6.81
+538,Microfiber Cleaning Cloths,Home,35154,1932,9672,595.84
+539,Adjustable Laptop Stand,Office,74062,42915,7750,5235.94
+540,Electric Toothbrush,Health,64597,3469,1424,5050.11
+541,Vegetable Broth,Food - Canned Goods,12141,28932,1862,1306.95
+542,Chicken Breasts,Food - Meat,17108,46946,1985,2665.51
+543,High-Speed HDMI Cable,Electronics,93855,21516,1608,7111.55
+544,Kale & Quinoa Salad Mix,Food - Salads,27574,14614,4257,1667.31
+545,Set of Decorative Storage Bins,Home,25375,27066,9599,9199.29
+546,Garlic Butter Sauce,Food - Condiments,26718,13648,3721,1403.79
+547,Car Escape Tool,Automotive,28811,8343,6544,4847.63
+548,Lemon Herb Grilled Chicken,Food - Meat,25725,9794,5150,7902.12
+549,Garden Tool Set with Carrying Bag,Garden,33423,47767,1323,7333.75
+550,Corn Tortillas,Food - Bakery,2546,34220,4331,561.84
+551,Nut Mix,Food - Snacks,59562,17010,6447,8861.11
+552,Travel Organizer,Travel,21695,20261,1604,5297.6
+553,Electric Kettle with Temperature Control,Kitchen,48366,22897,9352,7820.51
+554,Balsamic Vinaigrette,Food - Dressings,38504,606,7505,97.8
+555,Car Escape Tool,Automotive,21997,42532,2167,6791.59
+556,Peanut Butter Granola,Food - Breakfast,51365,38001,757,1749.85
+557,Smartphone Hand Grip,Accessories,29435,27316,5111,8096.37
+558,Cabbage Slaw Mix,Food - Vegetables,93386,3587,254,9541.94
+559,Flavored Instant Oatmeal,Food - Breakfast,14271,38393,5042,1556.73
+560,Organic Apples,Food - Produce,8999,35566,806,2195.47
+561,Pistachio Ice Cream,Food - Frozen Desserts,72089,33335,3669,8594.65
+562,BBQ Jackfruit,Food - Prepared Foods,20909,13146,2991,7402.17
+563,Scented Candle Set,Home,43897,31979,3942,2066.92
+564,Wire Shelving Unit,Home,31581,9564,8053,3987.47
+565,Sliced Cheese,Food - Dairy,44376,49679,7468,4833.41
+566,Indian Curry Sauce,Food - Condiments,41119,36685,3245,6421.03
+567,Organic Ramen Noodles,Food - Pasta,42466,12001,4447,9338.08
+568,Dark Chocolate Raisins,Food - Snacks,43399,32775,234,8721.4
+569,Sunglasses,Accessories,61200,5044,5583,5811.69
+570,Classic Bagels,Food - Bakery,51375,5531,5265,7437.91
+571,Fashionable Scarves Set,Clothing,32092,23588,5171,5636.48
+572,Apple Juice,Food - Beverages,26722,23639,6278,4093.5
+573,Chipotle Seasoning Blend,Food - Spices,31158,29472,6004,9597.93
+574,Vegetarian Stir Fry Sauce,Food - Condiments,53774,13198,6976,9225.42
+575,Portable Phone Mug Holder,Automotive,95498,44853,7920,5778.8
+576,Artisan Cornbread Mix,Food - Baking,18552,13782,3681,6729.52
+577,Non-Stick Grill Pan,Kitchen,94385,18427,2641,6362.87
+578,Oven Thermometer,Kitchen,41682,6957,8414,8955.84
+579,Outdoor Adventure Kit,Outdoor,65682,16801,128,5479.35
+580,Honey mustard chicken tenders,Food - Meat,16656,2069,5079,260.45
+581,Ginger Turmeric Tea,Food - Beverages,52290,42154,5841,2352.85
+582,Heat-Resistant Silicone Mat,Kitchen,60498,44273,2645,2501.71
+583,Freestanding Wine Rack,Home,82718,45873,9896,906.51
+584,Dark Chocolate Tart,Food - Desserts,79527,34348,1837,5370.42
+585,Oven-Baked Sweet Potato Fries,Food - Frozen Foods,59760,37270,2784,5849.12
+586,Sporty Cap,Clothing - Accessories,97196,14083,7664,1045.36
+587,Organic Tomato Ketchup,Food - Condiments,107,648,6345,2778.11
+588,Deluxe First Aid Kit,Health,78043,6332,4591,1932.67
+589,Portable UV Sterilizer,Health,38429,37890,337,8366.41
+590,Sour Cream,Food - Dairy,99300,17512,4713,8182.48
+591,Honey Wheat Pretzels,Food - Snacks,15217,11716,4022,8276.3
+592,Portable Laptop Table,Office,28991,30102,174,8798.71
+593,Adjustable Bar Stools,Furniture,21753,44790,5861,5687.77
+594,Electric Razor,Health,44863,14758,7994,6853.85
+595,Underwater Camera,Photography,74454,8281,7295,134.94
+596,Chili Beans (canned),Food - Canned Goods,70437,17620,9963,6027.04
+597,Children's Art Set,Toys,84124,25939,9124,3184.99
+598,Travel Sewing Kit,Travel,27666,12198,196,4459.58
+599,Spice Rack,Kitchen,5503,32508,9810,5816.13
+600,Wild Rice & Quinoa Mix,Food - Grains,25464,22506,4660,918.65
+601,Kids' Science Experiment Kit,Toys,2657,940,8514,789.39
+602,Adjustable Laptop Stand,Office,3271,20643,2973,3373.33
+603,Maple Almond Yogurt,Food - Dairy,76591,22356,2056,8815.93
+604,Beach Cover-Up,Clothing - Swimwear,10879,20733,6253,6956.8
+605,Organic Fruit Salad,Food - Produce,36363,43894,5268,2153.85
+606,Fridge Magnet Set,Home,61837,1642,1971,8696.35
+607,Chili Beans (canned),Food - Canned Goods,94781,2798,7260,679.1
+608,Shower Curtain Hooks,Home,56832,30995,4672,4053.94
+609,Honey Ginger Tea,Food - Beverages,95947,18729,1499,5417.07
+610,Pet Grooming Gloves,Pets,64546,16380,6385,353.66
+611,Wi-Fi Enabled Smart Light Switch,Smart Home,37230,6431,6288,5886.44
+612,Deep Tissue Massage Gun,Health,15718,8093,9932,2409.21
+613,Honey-Balsamic Vinaigrette,Food - Dressing,99462,21981,1205,3459.81
+614,Sliced Turkey Breast,Food - Deli Meats,18337,28534,3367,6946.45
+615,Eggs (dozen),Food - Dairy,27957,7344,1217,4465.14
+616,Portable Charcoal Grill,Outdoor,46515,833,294,8924.21
+617,Eco-Friendly Yoga Blocks,Fitness,42662,18218,2502,4663.72
+618,Bamboo Bathtub Caddy,Home,28419,25975,6597,4286.53
+619,Fishing Rod,Outdoor,96903,25097,2311,9410.81
+620,Dried Apricots,Food - Dried Fruits,45419,3224,148,1511.74
+621,Wireless HDMI Transmitter,Electronics,44821,37391,5863,2709.75
+622,USB Flash Drive,Storage,78868,16255,6388,7866.99
+623,Coconut Chips,Food - Snacks,76541,10463,8485,2376.65
+624,Chipotle Sauce,Food - Condiments,21022,38654,9518,4273.12
+625,Organic Coconut Flour,Food - Baking,46667,22848,2389,3315.47
+626,Spinach Pizza Rolls,Food - Frozen Foods,74058,37361,548,1654.81
+627,Bike Repair Tool Kit,Outdoor,15065,37479,6245,9202.96
+628,Nature Explorer Lens Kit,Toys,39332,7252,5052,7344.6
+629,Ankle Boots,Clothing - Footwear,69037,15438,430,6643.98
+630,Electric Butter Churn,Kitchen,15630,19958,4229,9464.8
+631,Foldable Yoga Mat Carry Bag,Fitness,31712,22338,8561,685.91
+632,Solar String Lights,Outdoor,81326,26074,6282,9460.57
+633,Plant-Based Cookbook,Books,44989,24991,1904,1258.22
+634,Sriracha Hot Chili Sauce,Food - Condiments,13756,44201,5370,7687.32
+635,Luxury Bathrobe,Clothing,99638,39011,1476,215.29
+636,Rain Jacket,Clothing,78860,41173,9352,882.11
+637,Salsa Verde,Food - Condiments,2667,48743,306,7767.98
+638,Wall Calendar,Home,9555,33540,8200,4809.26
+639,Ceramic Bakeware Set,Kitchen,96176,1868,9605,4298.19
+640,Plant Pot Drip Trays,Garden,33577,20316,4679,7112.06
+641,Outdoor Fire Pit,Outdoor,62211,14680,1046,7263.59
+642,Roasted Garlic Butter,Food - Condiments,12400,49868,2581,1231.9
+643,Chicken Sausage,Food - Meat,82108,28069,6122,7043.6
+644,Key Finder,Accessories,35599,34686,5771,9084.69
+645,Spicy Snack Mix,Food - Snacks,92076,18977,8917,9861.02
+646,Portable Solar Camp Shower,Outdoor,44749,21907,2044,8405.51
+647,Organic Blueberries,Food - Fruits,57292,35348,6239,3569.54
+648,Cinnamon Roll Kit,Food - Baking,23800,38244,3541,8176.29
+649,Athletic Sports Bra,Clothing - Activewear,6710,7962,2372,7612.27
+650,Honey Roasted Almonds,Food - Snacks,81328,20400,3484,6579.25
+651,Self-Inflating Camping Mattress,Outdoor,36637,37494,9298,4689.64
+652,Almond Butter Crunch Bar,Food - Snacks,84068,14243,5831,9522.63
+653,LED Camping Lantern with USB Charging,Outdoor,20862,6548,802,4803.89
+654,Rain Jacket,Clothing,92650,40403,2254,7842.28
+655,Fried Rice,Food - Frozen Foods,99748,27433,6330,8603.38
+656,Honeycrisp Apple Chips,Food - Snacks,82032,21802,2539,2952.52
+657,Kitchen Scale,Kitchen,30267,35026,2054,6125.19
+658,Cinnamon Apple Sauce,Food - Canned Goods,57783,4220,3504,9291.75
+659,Eco-Friendly Beeswax Wraps,Kitchen,60211,16291,4280,940.84
+660,Children's Backpack,Accessories,26742,16156,9958,9449.99
+661,Peach Fruit Cups,Food - Snacks,83561,3357,323,4455.89
+662,Cabbage,Food - Produce,19846,48510,724,5014.39
+663,Californian Raisins,Food - Dried Fruits,7752,13000,6257,7676.62
+664,Pesto Genovese,Food - Condiments,59170,18636,2967,9473.09
+665,Vegan Mayonnaise,Food - Condiments,11973,26443,7032,6335.56
+666,DIY Candle Kit,Crafts,79974,38573,9826,2847.55
+667,Puffer Winter Coat,Clothing - Outerwear,64110,22331,1867,3635.23
+668,Bamboo Utensil Set,Kitchen,24633,17900,1603,78.85
+669,Frozen Berry Blend,Food - Frozen Foods,1472,35514,8433,4175.93
+670,Silicone Baking Cups,Kitchen,48863,6959,7620,9820.21
+671,Frozen Edamame,Food - Frozen Foods,68597,29311,4455,2648.84
+672,Portable Air Conditioner,Home Appliances,43646,14934,4210,3139.75
+673,Natural Fruit Snacks,Food - Snacks,97502,32727,8892,3203.61
+674,Aeropress Coffee Maker,Kitchen,83876,33915,3496,2588.09
+675,Pet Bed with Removable Cover,Pets,85858,41247,6004,241.0
+676,Cheesy Cauliflower Bake,Food - Frozen Vegetables,51164,18350,8156,8549.04
+677,Rainbow Veggie Chips,Food - Snacks,95349,5242,6960,2078.97
+678,Vegetable Quinoa Bowl,Food - Frozen Meals,93883,19475,7201,319.38
+679,Portable Charcoal Grill,Outdoor,1161,32029,4465,4676.57
+680,Linen Trousers,Clothing - Bottoms,11650,15867,8699,1304.85
+681,Garlic & Herb Goat Cheese,Food - Dairy,36862,13317,7498,5341.16
+682,Insulated Lunch Box,Kitchen,56534,49418,8672,2298.77
+683,Pistachios,Food - Nuts,54269,22965,4679,2451.36
+684,Organic Italian Seasoning,Food - Spices,30563,35167,7894,6405.51
+685,Chili Lime Corn Chips,Food - Snacks,57363,30703,9567,614.46
+686,Dark Chocolate Almond Butter Cups,Food - Snacks,89549,2155,1965,7517.74
+687,Apple Juice,Food - Beverages,30684,31377,602,1244.57
+688,Smartphone Photography Ring Light,Photography,57563,19169,3802,6850.55
+689,Pet Grooming Scissors,Pets,85875,23218,1117,1344.49
+690,Handcrafted Wooden Coasters,Home,17615,44816,56,1977.69
+691,Peanut Butter Banana Smoothie,Food - Beverages,98199,40794,8479,3461.24
+692,Kids' Building Blocks,Toys,43985,35507,7220,4722.1
+693,Sous Vide Cooker,Kitchen,93777,18916,2753,6811.86
+694,Lentil Vegetable Stew,Food - Canned Soups,90471,32190,8331,5968.47
+695,Chickpea Flour,Food - Baking,7290,17123,1204,5039.63
+696,Cushion Covers,Home,39823,3672,1181,6614.89
+697,Chipotle Sauce,Food - Condiments,38799,26883,4150,9596.03
+698,Pineapple Teriyaki Chicken Mix,Food - Meat,58089,39319,5830,8917.58
+699,Whole Grain Hamburger Buns,Food - Bakery,8501,1653,9534,7315.44
+700,Puff Pastry,Food - Bakery,56665,27405,6959,3596.68
+701,Ramen Noodle Soup Cups,Food - Prepared Meals,36310,38777,9638,7517.22
+702,Personalized Pet ID Tags,Pets,63633,33128,1492,6755.02
+703,Rice Noodles,Food - Grains,99981,31842,3559,6128.73
+704,Chipotle Black Bean Salad,Food - Salads,86850,12544,5020,7954.77
+705,Home Office Chair,Furniture,2409,23756,3122,3390.01
+706,Digital Meat Thermometer,Kitchen,82321,28225,8563,3479.09
+707,Vanilla Almond Granola,Food - Breakfast,78936,33909,7814,9366.02
+708,Nail Polish Set,Beauty,43370,27499,7895,5827.42
+709,Fitness Tracker with Heart Rate Monitor,Fitness,80938,21496,3795,5051.14
+710,Herb-Infused Olive Oil,Food - Oils,17783,27710,9463,5033.86
+711,Oven Mitts,Kitchen,49174,39965,7120,7979.03
+712,Multi-Purpose Marine Rope,Outdoor,59102,42130,1961,3661.43
+713,Buffalo Wing Sauce,Food - Condiments,5623,4265,8442,2870.87
+714,Habanero Hot Sauce,Food - Condiments,50762,18061,1806,2250.82
+715,Portable Blender,Kitchen,5455,11355,2732,5421.68
+716,Asian Noodle Salad Kit,Food - Salads,31413,49855,3832,8924.17
+717,Apricot Jam,Food - Condiments,24729,11053,4998,4163.3
+718,Chia Seeds,Food - Grains,34365,21226,3278,4920.63
+719,Organic Green Tea,Food - Beverages,21293,9789,8072,8177.04
+720,Nutritional Yeast,Food - Pantry,13287,17941,2588,5813.98
+721,Coconut Rice,Food - Frozen,52506,31919,4447,4560.71
+722,Coconut Macaroons,Food - Confectionery,41378,45043,4395,370.25
+723,Tailored Blazer,Clothing - Outerwear,4294,26124,9169,5817.94
+724,Honey Almond Granola Bars,Food - Snacks,46464,28291,4979,536.96
+725,Digital Drawing Tablet,Art Supplies,83448,15542,4491,4686.17
+726,Sourdough Bread,Food - Bakery,32908,12604,1731,7323.96
+727,Mini Projector for Smartphones,Electronics,47723,2858,8477,2769.81
+728,Home Brewing Starter Kit,Food,38148,46038,6319,2170.03
+729,Organic Vanilla Bean Ice Cream,Food - Frozen Desserts,84800,7071,5097,2514.39
+730,Smartphone Gimbal Stabilizer,Photography,55287,43461,6083,8436.55
+731,Lemon Herb Grilled Chicken,Food - Meat,21005,26820,8218,311.77
+732,Pumpkin Spice Coffee,Food - Beverages,22060,6015,2917,3681.44
+733,Noise-Canceling Headphones,Audio,72210,44227,1510,4458.67
+734,Energy Bites,Food - Snacks,49712,12559,3931,8787.06
+735,Portable Massage Gun,Health,69086,24704,1809,1338.84
+736,Pumpkin Spice Latte Mix,Food - Beverages,23605,36369,8198,5862.32
+737,Cacao Powder,Food - Baking,69904,8170,5042,8924.76
+738,Ramen Noodle Soup Cups,Food - Prepared Meals,33788,14458,4898,1619.09
+739,Buffalo Cauliflower Wings,Food - Frozen Foods,43179,28178,3614,2788.31
+740,Sea Salt Caramel Brownie,Food - Bakery,70625,44945,1927,4875.08
+741,Maple Almond Butter,Food - Nut Butters,8942,33161,6687,6301.65
+742,Coconut Curry Sauce,Food - Sauces,42545,44888,3537,4702.57
+743,Sriracha Hot Chili Sauce,Food - Condiments,85603,28861,1752,3562.22
+744,Green Tea Matcha Powder,Food - Beverages,69404,22318,8721,9227.48
+745,Samsung Galaxy Smartwatch,Wearable Tech,81990,14399,2890,763.03
+746,Customizable Wall Calendar,Office,74647,15828,2423,3904.57
+747,Car Windshield Sun Shade,Automotive,45294,34718,755,9244.3
+748,Smoked Paprika Chicken Thighs,Food - Meat,82851,1962,4285,3930.34
+749,Silicone Wine Glasses,Outdoor,5494,46211,7825,8014.62
+750,Nutritional Yeast,Food - Pantry,46936,39238,5307,9014.44
+751,Sea Salt Caramel Popcorn,Food - Snacks,31444,8889,6439,7363.88
+752,Basil Tomato Soup,Food - Canned Soups,29973,26109,9624,2314.84
+753,Portable Laptop Table,Office,19698,14561,9742,5162.99
+754,Ice Cube Tray with Lid,Kitchen,95548,20840,2530,6243.49
+755,Wall-Mounted Organizer,Home,90899,21940,1742,3946.86
+756,Egg Noodles,Food - Grains,71719,44962,1608,9843.23
+757,Buffalo Sauce,Food - Condiments,84831,20344,2805,3748.81
+758,Mini Air Purifier,Health,93358,20519,6867,2268.73
+759,Set of Silicone Cooking Utensils,Kitchen,4879,33029,9970,300.67
+760,Roasted Garlic Mashed Potatoes,Food - Frozen Foods,82638,39264,2646,9339.03
+761,Camping Tent,Outdoor,42421,34699,5645,4526.05
+762,Ground Turkey,Food - Meat,63878,4755,7447,4502.43
+763,Mediterranean Flatbread,Food - Bakery,46076,18001,80,5363.54
+764,Spicy Beef Taco Mix,Food - Condiments,50227,38127,3636,2389.35
+765,Pet Reflective Vest,Pets,74982,17823,1358,4462.45
+766,Pleated Midi Dress,Clothing - Dresses,98054,8098,8984,4618.48
+767,Cotton Sweatpants,Clothing - Bottoms,93944,30798,991,4730.84
+768,Dark Chocolate Almond Butter Cups,Food - Snacks,69278,10057,3070,8382.29
+769,Almond Flour Brownies,Food - Baking,30696,31862,7349,1940.9
+770,Desk Organizer Set,Office,82734,47261,7762,3756.4
+771,Chickpea Snack Mix,Food - Snacks,97420,32792,1708,9605.62
+772,Chickpeas,Food - Canned Goods,25117,42576,7481,7035.25
+773,Samoas Cookie Mix,Food - Baking,16585,2846,8196,2533.59
+774,Peanut Butter Pretzel Nuggets,Food - Snacks,14214,41256,961,299.12
+775,Spicy Beef Taco Mix,Food - Condiments,14916,21323,4592,5205.04
+776,Wireless Security Camera,Home,77877,33826,2296,9536.01
+777,Vanilla Almond Granola,Food - Breakfast,11010,29396,8154,1076.89
+778,Cereal Dispenser with Portion Control,Kitchen,28144,24174,9382,1698.11
+779,Beef Stroganoff Meal Kit,Food - Frozen Meals,74640,34304,9545,5126.85
+780,Electric Knife,Kitchen,81075,48714,6934,55.8
+781,Home Office Chair,Furniture,48066,24054,883,3630.78
+782,Hiking Gaiters,Outdoor,7797,36106,564,465.72
+783,Smart Thermostat,Smart Home,1931,9499,1718,5100.16
+784,Indoor Grill,Kitchen,84230,47278,5732,8497.38
+785,Digital Wireless Camera,Home Security,52568,18112,6253,5611.12
+786,Inflatable Pool Float,Outdoor,2183,16769,8864,48.17
+787,Pumpkin Pancake Mix,Food - Breakfast,21857,47357,9732,3062.7
+788,Asian Stir-Fry Kit,Food - Frozen Meals,15356,19454,930,9630.23
+789,Buffalo Sauce,Food - Condiments,29367,20682,9825,6463.08
+790,Coconut Chia Seed Pudding,Food - Snacks,37667,255,1820,2278.42
+791,Feta Cheese Crumbles,Food - Dairy,29446,3333,1619,6754.49
+792,Collapsible Pet Dog Bowl,Pets,28133,11710,2052,9584.08
+793,Oven-Baked Parmesan Zucchini,Food - Frozen Vegetables,60815,48050,5681,940.82
+794,Mini Indoor Herb Garden Kit,Garden,35752,32776,5637,4156.91
+795,Luminous Night Light,Home,64431,5569,3836,745.15
+796,Dark Chocolate Covered Almonds,Food - Snacks,36347,3256,4544,6076.95
+797,Handcrafted Wooden Coasters,Home,49856,9084,3811,6706.05
+798,Veggie Lovers Pizza,Food - Frozen Foods,81832,43384,4984,1526.71
+799,Legging Pants,Clothing - Activewear,82844,36492,7737,9043.41
+800,Chili Lime Seasoning,Food - Spices,2868,32831,7473,6913.21
+801,Mediterranean Chickpea Bowl,Food - Prepared Foods,9415,37804,4477,1320.92
+802,Pocket Blanket,Outdoor,10355,43705,5622,9852.82
+803,Whisk Set,Kitchen,64764,26738,236,8086.91
+804,Egg Noodles,Food - Grains,31200,32824,8881,4440.35
+805,Quality Chef Apron,Kitchen,37051,42421,7017,5028.49
+806,Cat Tree with Scratching Posts,Pets,47926,15261,5392,485.58
+807,Smartphone Gimbal Stabilizer,Photography,63749,33065,9904,4068.34
+808,Maxi Wrap Dress,Clothing - Dresses,28538,2410,2569,3795.87
+809,Field Journal,Books,99196,15146,738,7023.28
+810,Baby Safety Corner Guards,Baby,94472,36149,1990,9084.51
+811,Spiralizer,Kitchen,15449,32267,9132,231.56
+812,Salsa Verde,Food - Condiments,56871,17232,402,3441.8
+813,Vacuum Sealer Machine,Kitchen,12097,27591,1806,5839.47
+814,Wall Art,Home,94667,7638,6050,450.28
+815,Matcha Green Tea Powder,Food - Beverages,33228,48930,2333,4791.53
+816,Tomato Sauce,Food - Canned Goods,24073,40563,2035,9674.44
+817,Red Lentil Pasta,Food - Pasta,10976,26022,4775,2207.55
+818,Non-Stick Crepe Pan,Kitchen,58242,2323,4810,2327.25
+819,Vegetarian Pizza,Food - Frozen Foods,97125,27448,5348,3931.07
+820,Artisan Bread,Food - Bakery,56835,1470,2117,6863.12
+821,Fitness Activity Journal,Fitness,20471,24159,874,4463.76
+822,Magnetic Spice Containers,Kitchen,80529,46982,580,8534.84
+823,Tortilla Chips,Food - Snacks,97526,28775,3701,453.11
+824,Pesto Pasta Salad,Food - Prepared Foods,24591,29835,4018,5423.44
+825,Fleece Lined Leggings,Clothing,15802,48986,3665,4482.25
+826,Wireless Security System,Home Security,62963,32802,3483,3438.38
+827,A-Line Skirt,Clothing - Bottoms,44907,30836,3683,9836.85
+828,LED Desk Lamp with USB Charging,Office,40397,13624,7087,4035.23
+829,Compost Bin,Garden,71076,26555,6352,2536.38
+830,Organic Coconut Flour,Food - Baking,71654,18524,7534,4569.98
+831,High-Low Hem Tee,Clothing - Tops,32466,4583,906,1169.75
+832,Asian Noodle Salad Kit,Food - Salads,91836,8127,7953,1313.49
+833,Aeropress Coffee Maker,Kitchen,88381,17395,9894,6367.73
+834,Car Sunshade,Automotive,58319,32712,5352,375.03
+835,Balsamic Salad Dressing,Food - Deli,76179,25172,8561,2667.28
+836,Wildflower Honey,Food - Condiments,21672,15866,6399,3030.4
+837,Pet Hair Vacuum Cleaner Attachment,Pets,97537,21132,8591,4516.84
+838,Cauliflower Pizza Crust,Food - Frozen Foods,87506,15742,9304,6448.69
+839,Honey Mustard Sauce,Food - Condiments,84572,40028,71,3310.84
+840,Italian Herbal Seasoning,Food - Spices,81965,12246,7687,3421.27
+841,Honey Ginger Tea,Food - Beverages,74844,5059,8438,7769.76
+842,Chocolate Coconut Protein Balls,Food - Snacks,60904,18780,3865,5217.88
+843,Chocolate Avocado Pudding,Food - Desserts,15362,15321,8280,5860.65
+844,Smart Scale,Health,29012,47033,5903,6363.05
+845,Dishwasher Safe Cutting Board,Kitchen,24510,25469,1759,930.54
+846,BBQ Sauce,Food - Condiments,80663,24376,5630,3392.31
+847,Bamboo Bathtub Caddy,Home,9238,4505,9225,1162.09
+848,Cinnamon Sugar Tortilla Chips,Food - Snacks,1056,32151,691,8536.39
+849,Roasted Garlic Butter,Food - Condiments,66633,31606,2562,1405.72
+850,Creative Puzzle Game,Toys,20953,27871,3632,2721.22
+851,Roasted Garlic,Food - Condiments,54744,17628,8856,5494.28
+852,Nature Explorer Lens Kit,Toys,77264,44808,1236,8746.81
+853,Mango Chili Salsa,Food - Condiments,79952,16850,314,11.34
+854,Hibiscus Tea Bags,Food - Beverages,36196,47121,67,6242.19
+855,BBQ Jackfruit,Food - Prepared Foods,22330,4392,3449,9416.04
+856,Children's Backpack,Accessories,13822,6577,2041,3313.07
+857,Coffee Subscription Service,Food,30070,6370,8459,5338.34
+858,Running Shorts,Clothing - Activewear,3904,3104,7563,9860.2
+859,Folding Table,Outdoor,85908,8732,5483,6478.11
+860,Chic Jumpsuit,Clothing - Jumpsuits,4859,1783,8136,3895.6
+861,Creamy Garlic Mashed Potatoes,Food - Sides,91337,12056,9203,7477.19
+862,Handmade Soap Making Kit,Crafts,62885,33982,8637,5879.41
+863,Smart Thermostat,Smart Home,2307,29400,1545,8979.37
+864,Olive Oil,Food - Condiments,53049,43610,6196,7323.17
+865,Vegetable Spiralizer,Kitchen,40026,40004,8041,3583.86
+866,Pasta Salad Kit,Food - Prepared Foods,63169,33390,8349,6759.11
+867,Basil Tomato Soup,Food - Canned Soups,66181,10920,7055,730.97
+868,Coconut Curry Lentils,Food - Canned Goods,92799,29257,1411,264.72
+869,Outdoor Mosquito Repellent Lantern,Outdoor,47547,28919,6635,1973.92
+870,Veggie Burger Patties,Food - Meat Substitutes,30561,11032,9981,1735.71
+871,Manual Coffee Grinder,Kitchen,50003,29448,208,3661.14
+872,Black Olives,Food - Canned Goods,21694,30321,2153,7485.77
+873,Pressure Washer Accessories Kit,Home Improvement,61761,18254,8207,8937.38
+874,Air Mattress,Outdoor,21066,42140,8236,6320.05
+875,Sourdough Bread,Food - Bakery,12497,20207,654,1545.87
+876,Creamy Coleslaw Mix,Food - Produce,45574,7357,4295,8226.55
+877,Whole Wheat Bread,Food - Bakery,55763,18951,384,1902.69
+878,Granola Bars,Food - Snacks,51111,12218,1648,6999.07
+879,Crispy Onion Rings,Food - Frozen Foods,71052,5240,6960,5537.81
+880,Rustic Wooden Picture Frame,Home,8039,17455,6037,4350.63
+881,Fitness Tracker with Heart Rate Monitor,Fitness,53751,2870,9202,6428.03
+882,Herbed Mushroom Risotto,Food - Prepared Foods,61917,33845,7733,5052.39
+883,Adjustable Laptop Stand,Office,22985,26151,1499,4482.89
+884,Ice Cream Scoop,Kitchen,7509,20332,5117,1347.46
+885,Frozen Acai Bowl,Food - Frozen Foods,6277,34931,5936,6465.83
+886,Car Trash Can,Automotive,69157,11931,3117,4899.61
+887,Almond Butter,Food - Condiments,59863,23122,4363,2455.71
+888,Sriracha Sauce,Food - Condiments,94482,680,6399,8897.59
+889,Workstation Laptop Stand,Office,13058,2807,4385,7096.94
+890,Cabbage Slaw Mix,Food - Vegetables,64029,25102,9165,3049.87
+891,Lentil Vegetable Stew,Food - Canned Soups,56929,45527,1450,8254.13
+892,LED Flashlight,Outdoor,8367,47914,729,6060.27
+893,Spicy Roasted Nuts,Food - Snacks,6537,12921,6120,8946.88
+894,Wrap Front Midi Skirt,Clothing - Bottoms,49831,9261,7766,7598.95
+895,Creamy Coleslaw Mix,Food - Produce,77977,7037,7995,900.01
+896,Dog Waste Bag Dispenser,Pets,9969,853,1589,481.46
+897,Ergonomic Gaming Chair,Gaming,86672,28452,6587,3451.26
+898,Memory Card,Storage,44710,45131,7767,6788.63
+899,Chipotle Seasoning Blend,Food - Spices,56949,23137,4155,6833.57
+900,Pet Grooming Gloves,Pets,21450,48522,9467,7625.6
+901,Vegetarian Stir Fry Sauce,Food - Condiments,55561,3916,5878,7013.38
+902,Savory Oatmeal,Food - Breakfast,59658,5065,3878,1063.38
+903,Portable Charger with Solar Panel,Electronics,70663,21659,8368,4658.94
+904,Portable Pet Pooper Scooper,Pets,82814,27928,9782,8991.56
+905,Cinnamon Spiced Almonds,Food - Snacks,87224,31764,6952,7275.23
+906,Portable Campfire,Outdoor,36074,34606,3253,7660.2
+907,LED Table Lamp,Home,32746,16576,8177,9514.11
+908,Cordless Water Flosser,Health,38251,36563,2278,7054.95
+909,Portable Bluetooth Keyboard,Electronics,43550,26495,797,2725.65
+910,Handmade Wooden Utensil Set,Kitchen,17038,31255,299,1824.57
+911,Folding Backpack Chair,Outdoor,21447,41431,3139,4143.31
+912,Portable Bluetooth Headphones,Audio,67271,28811,7627,9949.03
+913,Electric Blanket,Home,3036,17092,1473,9101.02
+914,Orange Ginger Vinaigrette,Food - Condiments,84757,25648,8207,9179.74
+915,Solar Garden Lights,Outdoor,81818,11214,5292,7877.51
+916,Chocolate Chip Pancake Mix,Food - Bakery,1725,34851,3175,3624.11
+917,Organic Chia Seeds,Food - Health Foods,82033,27252,5670,5196.17
+918,Reusable Snack Bags,Kitchen,10013,8281,6441,1626.08
+919,Portable Phone Mug Holder,Automotive,45251,32866,2055,4075.78
+920,Customizable Photo Calendar,Books,93534,33660,1206,6087.5
+921,Electric Kettle,Kitchen,31304,8293,7231,8203.16
+922,Almond Crunch Granola Bars,Food - Snacks,84828,7265,9683,4462.02
+923,Herb Seasoned Rice,Food - Sides,41518,16810,4005,8179.79
+924,Natural Soy Candles,Home,47232,41517,145,8570.61
+925,Set of Measuring Spoons,Kitchen,90271,3354,3266,5025.18
+926,Hot Dog Buns,Food - Bakery,62571,24868,4449,3422.94
+927,Vegetarian Chili,Food - Canned Goods,40037,36318,1405,6938.89
+928,Vintage Graphic Tee,Clothing - Tops,25250,17668,6679,3781.82
+929,Cinnamon Spiced Almonds,Food - Snacks,32851,530,3729,3739.82
+930,Oven-Baked Potato Chips,Food - Snacks,93893,5273,433,6745.0
+931,Car Vacuum Cleaner,Automotive,77720,29759,3328,4313.23
+932,Sweet Corn,Food - Canned Goods,37493,41975,2897,9698.87
+933,Organic Quinoa,Food - Grains,68635,49654,5531,1685.64
+934,Wireless Mouse,Electronics,45234,27045,9796,4801.29
+935,Spicy Hummus,Food - Deli,19257,19481,8212,3875.26
+936,Breathable Face Mask Set,Health,91063,30567,7042,4689.63
+937,Pasta (Linguine),Food - Pasta,79995,8076,5920,5044.73
+938,Buffalo Sauce,Food - Condiments,11018,9611,4706,336.91
+939,Coconut Cream,Food - Baking & Cooking,88077,5347,4734,2798.56
+940,Adjustable Dumbbells,Fitness,62070,15607,9317,4869.79
+941,Biodegradable Trash Bags,Home,381,11268,8903,5346.84
+942,Travel Yoga Mat,Fitness,27895,29154,7148,3166.82
+943,Electric Stir Fry Pan,Kitchen,28265,36036,70,9507.0
+944,Compact Umbrella,Accessories,13111,27094,5891,8821.75
+945,Pet Bed,Pets,68367,8623,5076,7160.46
+946,Vegan Cheese,Food - Dairy Alternatives,12595,12073,3988,7983.68
+947,Whole Wheat Pita Bread,Food - Bread,95428,2893,284,4658.85
+948,Almond Flour Tortillas,Food - Baking & Cooking,15043,12621,2441,4734.0
+949,Set of Gardening Gloves with Claws,Garden,72810,22741,5199,1910.71
+950,Trackpad for Laptop,Accessories,66275,46405,6859,578.22
+951,Indestructible Dog Toy,Pets,10868,11077,7191,8608.87
+952,Children's Art Set,Toys,36261,47187,7317,2773.38
+953,Himalayan Salt Grinder,Food - Spices,50004,41285,7771,6146.29
+954,Herbal Tea Variety Pack,Food - Beverages,4004,36461,1228,2964.89
+955,Salsa,Food - Condiments,74094,9374,3650,1811.58
+956,Digital Wireless Camera,Home Security,95833,26592,3992,8297.33
+957,Crispy Potato Tots,Food - Frozen Foods,1948,48061,5037,6565.55
+958,Cinnamon Sugar Popcorn,Food - Snacks,951,35309,8205,3189.15
+959,Vegan Alfredo Sauce,Food - Sauces,87341,628,4929,303.58
+960,Gardening Gloves with Claws,Garden,39867,38204,9550,71.43
+961,Free-Range Eggs,Food - Dairy,11362,4057,7442,6596.4
+962,Wireless Mouse,Electronics,44457,337,4105,5109.61
+963,Solar Garden Lights,Outdoor,79350,11328,6037,1094.53
+964,Zesty Garlic Hummus,Food - Snacks,46154,46206,2117,6562.82
+965,Spinach and Cheese Stuffed Shells,Food - Frozen Meals,91758,47256,7308,9085.29
+966,LED Desk Lamp with USB Charging Port,Office,98091,9904,1060,5634.74
+967,Lemon Dill Chicken Skewers,Food - Meat,26770,42602,6059,4216.67
+968,Yoga Mat,Fitness,80129,24004,9965,2322.36
+969,Vegetable Spiralizer,Kitchen,89893,26176,3569,4446.97
+970,Nutritional Yeast,Food - Pantry,51021,20076,2130,9688.84
+971,Brussels Sprouts,Food - Produce,85299,4758,6008,2384.38
+972,Reclining Camping Chair,Outdoor,93308,36301,5845,899.99
+973,Spinach Artichoke Dip,Food - Snacks,3276,33546,5661,5699.76
+974,Baby Safety Corner Guards,Baby,10413,41098,2934,8772.59
+975,White Rice,Food - Grains,77171,11884,8727,3028.96
+976,Emergency Preparedness Kit,Safety,29433,46072,9134,5067.01
+977,Dog Training Collar,Pets,59355,25354,1230,3357.23
+978,Decorative Throw Blanket,Home,99459,32077,4717,9504.33
+979,Car Windshield Sun Shade,Automotive,48974,29276,6156,7537.34
+980,Chocolate Dipped Fruit,Food - Snacks,67266,32345,7293,9766.05
+981,Silicone Stretch Lids,Kitchen,28063,21138,9022,228.81
+982,Greek Yogurt Parfait,Food - Dairy,95379,42129,9306,3433.93
+983,Reusable Food Storage Bags,Kitchen,25425,33127,2383,5174.28
+984,Portable Solar Generator,Outdoor,7688,10094,7817,6602.49
+985,Organic Sweet Potatoes,Food - Produce,86519,8444,4028,7933.79
+986,Mesh Laundry Bags Set,Home,36958,33050,2295,2108.02
+987,Pocket Blanket,Outdoor,16188,18441,1812,9319.42
+988,Frozen Acai Purée,Food - Frozen,42608,46882,1880,8640.84
+989,Colorful Post-It Notes Set,Office,32577,686,451,7739.98
+990,Personal Blender with Travel Cup,Kitchen,72520,48850,5020,4944.01
+991,Mini Fondue Set,Kitchen,89897,42306,3642,5756.5
+992,Chocolate Mint Thins,Food - Snacks,36058,21515,2795,4930.19
+993,Durable Hiking Boots,Footwear,23762,9306,9195,8083.52
+994,Portable Hammock with Stand,Outdoor,41054,22616,4467,4070.13
+995,Laptop Stand,Accessories,27770,44635,6844,8481.26
+996,Apple Juice,Food - Beverages,86953,33146,7427,6205.22
+997,Spinach and Feta Stuffed Chicken Breast,Food - Meat,30892,8179,4786,8695.51
+998,Thai Coconut Curry Sauce,Food - Condiments,30931,27578,1262,6107.78
+999,Pumpkin Spice Pancake Mix,Food - Breakfast,47336,8237,9575,7995.32
+1000,Silicone Baking Mat Set,Kitchen,90977,12490,3041,1551.32
