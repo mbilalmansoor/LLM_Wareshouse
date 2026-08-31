@@ -1,0 +1,21 @@
+[project]
+name = "llm-wareshouse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Bilal Mansoor", email = "119118551+mbilalmansoor@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.5.5",
+    "groq>=1.7.0",
+    "python-dotenv>=1.2.3",
+]
+
+[project.scripts]
+llm-wareshouse = "llm_wareshouse:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
