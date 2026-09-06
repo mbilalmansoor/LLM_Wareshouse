@@ -6,6 +6,16 @@ Ask questions about your document warehouse in plain English. The application us
 
 ---
 
+## 🎓 Course Project Context
+
+This project was developed as an official academic assignment for the PGD **Generative AI Course** at **NED University of Engineering and Technology**.
+
+* **Supervised By:** [Sir Sajid Majeed](https://github.com/SajidMajeed92)
+* **Project Team:**
+  * [Bilal Mansoor](https://github.com/mbilalmansoor)
+
+---
+
 ## 🚀 Features
 
 *   **Natural-Language Queries** — Ask questions about your warehouse without writing SQL.
@@ -19,6 +29,16 @@ Ask questions about your document warehouse in plain English. The application us
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Python" width="36" height="36" /></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="uv" width="36" height="36" style="border-radius: 4px;" /></a>
+  <a href="https://gradio.app" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Gradio" width="36" height="36" /></a>
+  <a href="https://groq.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com" alt="Groq" width="45" height="36" style="object-fit: contain;" /></a>
+  <a href="https://duckdb.org" target="_blank" rel="noreferrer"><img src="https://duckdb.orgimages/favicon/apple-touch-icon.png" alt="DuckDB" width="36" height="36" /></a>
+  <a href="https://getdbt.com" target="_blank" rel="noreferrer"><img src="https://seeklogo.com" alt="dbt" width="36" height="36" /></a>
+  <a href="https://pydata.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" alt="Pandas" width="36" height="36" /></a>
+</p>
 
 *   **Python:** 3.12+
 *   **Package Manager:** uv
