@@ -29,35 +29,52 @@ Ask questions about your document warehouse in plain English. The application au
 
 ## 📦 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd llm-warehouse-assistant
-   ```
+### Option A: Using `uv` (Recommended & Fastest)
+You can run the application immediately without manually managing environments, or set up a standard workspace using `uv`.
 
-2. **Set up a virtual environment:**
-   ```bash
-   python3.12 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+**Single-command execution (using `pyproject.toml` or script inline metadata):**
+```bash
+git clone https://github.com
+cd llm-warehouse-assistant
+uv run app.py
+```
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+**Standard workspace setup:**
+```bash
+uv venv --python 3.12
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv pip install -r requirements.txt
+```
 
-4. **Configure environment variables:**
+### Option B: Using standard `pip`
+```bash
+git clone https://github.com
+cd llm-warehouse-assistant
+python3.12 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+---
+
+## ⚙️ Configuration & Execution
+
+1. **Configure environment variables:**
    Create a `.env` file in the root directory and add your Groq API key:
    ```env
    GROQ_API_KEY=your_groq_api_key_here
    ```
 
-5. **Run dbt transformations (Optional/If applicable):**
+2. **Run dbt transformations (Optional/If applicable):**
    ```bash
+   # If using uv workspace or standard pip:
    dbt run
+
+   # If using uv tool execution:
+   uv run dbt run
    ```
 
-6. **Launch the application:**
+3. **Launch the application:**
    ```bash
    python app.py
    ```
