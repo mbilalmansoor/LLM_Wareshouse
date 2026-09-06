@@ -10,7 +10,7 @@ Ask questions about your document warehouse in plain English. The application us
 
 This project was developed as an official academic assignment for the PGD **Generative AI Course** at **NED University of Engineering and Technology**.
 
-* **Supervised By:** [Sir Sajid Majeed](https://github.com/SajidMajeed92)
+* **Supervised By:** [Sir Sajid Majeed](https://github.com)
 * **Project Team:**
   * [Bilal Mansoor](https://github.com/mbilalmansoor)
 
@@ -31,13 +31,13 @@ This project was developed as an official academic assignment for the PGD **Gene
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="uv Package Manager" />
-  <img src="https://shields.io" alt="Gradio UI" />
-  <img src="https://shields.io" alt="Groq API" />
-  <img src="https://shields.io" alt="DuckDB" />
-  <img src="https://shields.io" alt="dbt transformations" />
-  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12+" />
+  <img src="https://img.shields.io/badge/uv-Package_Manager-6A4C93?style=for-the-badge" alt="uv Package Manager" />
+  <img src="https://img.shields.io/badge/Gradio-UI-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio UI" />
+  <img src="https://img.shields.io/badge/Groq-API-F55036?style=for-the-badge" alt="Groq API" />
+  <img src="https://img.shields.io/badge/DuckDB-Database-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/dbt-Transformations-FF694A?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Processing-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
 *   **Python:** 3.12+
