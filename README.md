@@ -103,11 +103,11 @@ LLM_Wareshouse/
 
 ## 🔑 Configuration
 
-Create a `.env` file in the project root:
+Place your Groq API key in the `.env` file in the project root:
 ```env
 GROQ_API_KEY=your_groq_api_key_here
 ```
-> ⚠️ **Important:** Never commit your `.env` file or expose your API key publicly.
+
 
 ---
 
